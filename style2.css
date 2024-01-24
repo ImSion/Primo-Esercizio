@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    text-align: center;
+    color: #333;
+    font-family: Georgia, serif;
+}
+
+header img {
+    width: 150px;
+    margin: 20px 0;
+}
+
+nav {
+    background-color: #fefbf1;
+    border-top: 1px solid #ffd977;
+    padding: 15px 0;
+    color: #004d4d;
+    font-size: 0.8rem;
+    margin-bottom: 4rem;
+}
+
+nav span span {
+    font-weight: bold;
+    text-transform: uppercase;
+}

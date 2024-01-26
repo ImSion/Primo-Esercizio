@@ -1,0 +1,23 @@
+
+body {
+    background-color: rgb(54, 154, 248);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 500px;
+
+}
+h1 {
+    color:red ;
+}
+
+div{
+    
+    border: 2px solid green ;
+    margin-bottom: 4px ;
+    padding: 8px 18px ;
+    
+}
+.firstdiv {
+    background-color: blueviolet;
+    color: white;
+    width: 50vw;
+}
